@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Brady Heinrich | Tech Marketer & Developer',
+  author: 'Brady Heinrich',
+  headerTitle: 'Brady Heinrich',
+  description: 'Personal website / blog by Brady Heinrich. I write about tech, marketing, and development.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
